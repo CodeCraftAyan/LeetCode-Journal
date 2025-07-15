@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="150" alt="image2" src="https://github.com/user-attachments/assets/bf853135-beb6-4eee-813a-b57b793414ef" />
+  <img height="120" alt="image2" src="https://github.com/user-attachments/assets/bf853135-beb6-4eee-813a-b57b793414ef" />
 </p>
 
 # 📘 DSA + LeetCode Daily Progress
