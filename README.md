@@ -13,6 +13,7 @@ Welcome to my daily learning journey where I focus on mastering **Data Structure
 | Date       | Data Structure   | Code File                     | Language | Notes              |
 |------------|------------------|-------------------------------|----------|---------------------|
 | 2025-07-15 | HashMap | [HashMp.py](DSA/HashMap.py)         | Python   | Basic operations    |
+| 2025-07-16 | Linear Search | [LinearSearch.py](DSA/LinearSearch.py)         | Python   | Linearly searching algorithm in array |
 
 ---
 
