@@ -14,6 +14,7 @@ Welcome to my daily learning journey where I focus on mastering **Data Structure
 |------------|------------------|-------------------------------|----------|---------------------|
 | 2025-07-15 | HashMap | [HashMp.py](DSA/HashMap.py)         | Python   | Basic operations    |
 | 2025-07-16 | Linear Search | [LinearSearch.py](DSA/LinearSearch.py)         | Python   | Linearly searching algorithm in array |
+| 2025-07-17 | Binary Search | [BinarySearch.py](DSA/BinarySearch.py)         | Python   | In this algo before searching array need sorted |
 
 ---
 
