@@ -17,6 +17,7 @@ Welcome to my daily learning journey where I focus on mastering **Data Structure
 | 2025-07-17 | Binary Search | [BinarySearch.py](DSA/BinarySearch.py)         | Python   | In this algo before searching array need sorted |
 | 2025-07-18 | Prefix Sum | [PrefixSum.py](DSA/PrefixSum.py)         | Python   | Each index stores sum from start to that index |
 | 2025-07-19 | Bubble Sort | [BubbleSort.py](DSA/BubbleSort.py)         | Python   | Repeatedly swap adjacent elements if out of order. Largest bubbles to end. |
+| 2025-07-20 | Selection Sort | [SelectionSort.py](DSA/SelectionSort.py)         | Python   | Find the smallest element and swap it with the first. Repeat for the rest. |
 
 ---
 
