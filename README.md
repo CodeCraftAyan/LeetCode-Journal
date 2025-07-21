@@ -18,6 +18,7 @@ Welcome to my daily learning journey where I focus on mastering **Data Structure
 | 2025-07-18 | Prefix Sum | [PrefixSum.py](DSA/PrefixSum.py)         | Python   | Each index stores sum from start to that index |
 | 2025-07-19 | Bubble Sort | [BubbleSort.py](DSA/BubbleSort.py)         | Python   | Repeatedly swap adjacent elements if out of order. Largest bubbles to end. |
 | 2025-07-20 | Selection Sort | [SelectionSort.py](DSA/SelectionSort.py)         | Python   | Find the smallest element and swap it with the first. Repeat for the rest. |
+| 2025-07-20 | Insertion Sort | [InsertionSort.py](DSA/InsertionSort.py)         | Python   | Insertion Sort builds the sorted list one item at a time by placing each element in its correct position. |
 
 ---
 
